@@ -23,5 +23,10 @@
 
 
 # Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto.
-*1-Inicio
-*2-Declarar(precio_inicial,nuevo_valor,
+* 1-Inicio
+* 2-Declarar(precio_inicial,nuevo_valor,porsentaje,producto,multi)
+* 3-digitar precio inicial
+* 4-nuevo valor * 100 = multi
+* 5-multi / precio inicial = porsentaje
+* 6-mostrar resultado
+* 7-fin
