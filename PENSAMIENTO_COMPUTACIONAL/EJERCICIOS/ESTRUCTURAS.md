@@ -22,13 +22,15 @@
 * 2-Declarar (letra)char
 * 3-mostrar ("Digite una letra")
 * 4-asignar (letra)
-* 5-si letra=s or n entonces
+* 5-si letra=s,n,S OR N entonces
             mostrar ("correcto")
           sino mostrar ("letra no valida")
         finsi
-*6-Fin
+* 6-Fin
 
-![image](https://user-images.githubusercontent.com/104279722/167275266-73df4840-72bc-4b41-8991-de4ebdd60f30.png)
+![image](https://user-images.githubusercontent.com/104279722/167275724-b30c55d0-991f-4383-8433-b392224156d5.png)
+![image](https://user-images.githubusercontent.com/104279722/167275730-302d2640-e958-4834-83f3-14d16f91f981.png)
+
 
 
 
