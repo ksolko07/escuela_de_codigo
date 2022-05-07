@@ -11,6 +11,9 @@
     sino mostrar ("El numero es negativo")
 *6-Fin
 
+![image](https://user-images.githubusercontent.com/104279722/167274574-eb3a6987-ee85-441f-a24e-a18c2d6e79df.png)
+
+
 
 ### Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
 ### Un programa que pida una letra y detecte si es una vocal. 
