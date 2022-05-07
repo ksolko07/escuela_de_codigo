@@ -7,7 +7,7 @@
       
     * 1-inicio
     * 2-Declarar (mts,res)float
-    * 3-Declarar (yd=1.09362)float
+    * 3-Asignar (yd=1.09362)float
     * 4-Mostrar ("Ingresa los metros")
     * 5-Asignar (mts)
     * 6-res=yd*mts
