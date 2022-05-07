@@ -9,13 +9,29 @@
 * 5-si num>0 entonces
       mostrar("el numero es positivo")
     sino mostrar ("El numero es negativo")
-*6-Fin
+* 6-Fin
 
-![image](https://user-images.githubusercontent.com/104279722/167274574-eb3a6987-ee85-441f-a24e-a18c2d6e79df.png)
+![image](https://user-images.githubusercontent.com/104279722/167274574-eb3a6987-ee85-441f-a24e-a18c2d6e79df.png)![image](https://user-images.githubusercontent.com/104279722/167274840-739392fe-c13f-4196-b15f-2c86071a7839.png)
+
 
 
 
 ### Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+
+* 1-Inicio
+* 2-Declarar (letra)char
+* 3-mostrar ("Digite una letra")
+* 4-asignar (letra)
+* 5-si letra=s or n entonces
+            mostrar ("correcto")
+          sino mostrar ("letra no valida")
+        finsi
+*6-Fin
+
+![image](https://user-images.githubusercontent.com/104279722/167275266-73df4840-72bc-4b41-8991-de4ebdd60f30.png)
+
+
+
 ### Un programa que pida una letra y detecte si es una vocal. 
 ### Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 ### De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
