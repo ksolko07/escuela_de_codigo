@@ -49,6 +49,43 @@ finsi
 ![image](https://user-images.githubusercontent.com/104279722/168409135-604c23b9-1e0f-4122-887a-d247f5069acd.png)
 
 ### Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
+
+* 1.-INICIO
+* 2.-Declarar(n1,n2,n3)
+* 3.-Mostrar("Ingresar el primer numero")
+* 4.-Asignar (n1)
+* 5.-Mostrar("Ingresa el segundo numero")
+* 6.-Asignar (n2)
+* 7.-Mostrar("Ingresa el tercer numero")
+* 8.-Asignar (n3)
+* 9.-Si n1>n2 entonces
+      ** Si n2>n3 entonces
+      Mostrar("El oreden de menor a mayor es ", n3,",",         n2,",",n1"," )
+sino
+      Si n1>n3 entonces
+            Mostrar ("El oreden de menor a mayor es ",n2,",", n3,",",n1",")
+sino
+      Mostrar("El oreden de menor a mayor es ",n2,",", n1,",",n3",")
+      finsi
+finsi
+Sino
+      Si n1>n3 Entonces
+      Mostrar ("El ordes de menor a mayor es ",n3,", ",n1,", ",n2,", ")
+SiNo
+	Si n2>n3 Entonces
+	 Mostrar("El ordes de menor a mayor es ",n1,", ",n3,", ",n2,", ")
+SiNo
+	 Mostrar("El ordes de menor a mayor es ",n1,", ",n2,", ",n3,",")
+			FinSi
+		FinSi
+	FinSi
+* 10.-FIN
+
+
+![image](https://user-images.githubusercontent.com/104279722/168409417-a8c84085-f54a-4e50-ae91-8b3b74019667.png)
+![image](https://user-images.githubusercontent.com/104279722/168409432-4b05e43b-5b00-4657-bb65-ef3d8e1c9ad6.png)
+
+
 ### De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 ### De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 ### Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
